@@ -1,0 +1,1 @@
+use it on console. At first give input 'quit'. Then open console and then use it.
