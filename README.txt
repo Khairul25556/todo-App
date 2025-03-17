@@ -1,1 +1,2 @@
-use it on console. At first give input 'quit'. Then open console and then use it.
+I'm in a middle of learning js. So I just wanna make a simple thing which is basically about js. How to use it? All info has been added to the website. And play it by using console. At first give input 'quit'. Then open console and then use it.
+It's not completed.
